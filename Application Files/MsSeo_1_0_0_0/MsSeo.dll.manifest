@@ -1359,13 +1359,13 @@
       <dsig:DigestValue>bYCMd/uvYTK5AasKa7igCcdllnwxk7M+Xzg/ZyVxIp4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="MsSeo.dll" size="16787968">
+  <file name="MsSeo.dll" size="16787456">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>hsJ6LHQANUrIX8QxQLKvKCahXN1J72c+xzuwxrCRPyo=</dsig:DigestValue>
+      <dsig:DigestValue>7qAQqrk9wriyFwlUWLCnIIv24GB0IT/JpiV8WeO/HgE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="MsSeo.dll.config" size="210">
@@ -1377,13 +1377,13 @@
       <dsig:DigestValue>FuEXhUy8hfgFCKe20QKTsBEvbd/xI5w11Eji58GLo3M=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="MsSeo.exe" size="274944">
+  <file name="MsSeo.exe" size="274432">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>rwrX+G+3viaLmEfGYFpJwAVVZYb2aq+LM8i60bcqA2k=</dsig:DigestValue>
+      <dsig:DigestValue>01bGv5M8KO+4+0oVWViARcr2mRGUcdMPxhX3hMkO7S4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="MsSeo.runtimeconfig.json" size="582">
