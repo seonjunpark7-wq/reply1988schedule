@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<!-- 기본값은 MyDocuments/MsSeo -->
+		<add key="MsSeoFolder" value="C:\Users\Public\Documents" />
+	</appSettings>
+
+</configuration>
